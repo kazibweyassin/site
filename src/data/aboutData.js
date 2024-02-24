@@ -1,0 +1,6 @@
+export const aboutData = {
+    title: "About Me",
+    description1: "My name is Kazibwe Yassin C. I'm a software Engineer  and an Entreprenuer in Kampala, Uganda.",
+    description2: "I am a professional and passionate full stack Software Engineer programmer in my daily life. A quick learner with a self-learning attitude. I love to learn and explore new technologies and am Passionate about Problem Solving. Love almost all the stacks of Software Engineering. My current stack includes python, Nestjs, React, NextJs, Redux, Bootstrap, Ant Design, Material UI, django, Mysql, PostgreSQL, Firebase, Cloudinary, etc.",
+    description3: " As an entreprenuer, I have a passion for solving problems and creating solutions that make the world a better place. I am the founder of FastWorld Solutions Limited, a software development company that provides software solutions to businesses and individuals. I am also the founder of Sprout fintech  start-up thats changing the way people and businesses  borrow and lend.",
+}
